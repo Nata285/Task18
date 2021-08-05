@@ -1,0 +1,4 @@
+2021-08-05 15:41:16.268830
+hash
+(('Task.txt',), {})
+<generator object hash at 0x000001DF568C3CF0>
